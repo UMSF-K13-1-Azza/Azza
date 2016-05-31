@@ -14,7 +14,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            string patternlogin="^[a-t]+$";
+            string patternlogin="^[a-z]+$";
             string patternpassword = "^[0-9]+$";
             while (true)
             {
